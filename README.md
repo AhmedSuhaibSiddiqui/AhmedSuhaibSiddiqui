@@ -1,4 +1,4 @@
-# 🚀 Ahmed Suhaib | Full-Stack Developer & Edge AI Engineer
+# 🚀 Ahmed Suhaib Siddiqui | Full-Stack Developer & Edge AI Engineer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-suhaib-0391b7307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
