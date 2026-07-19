@@ -1,77 +1,135 @@
-# 🚀 Ahmed Suhaib Siddiqui | Full-Stack Developer & Edge AI Engineer
+<!--
+════════════════════════════════════════════════════════════════════════════
+  AHMED SUHAIB SIDDIQUI — GitHub Profile README
+  Repo: AhmedSuhaibSiddiqui/AhmedSuhaibSiddiqui
+  Data verified against https://ahmedchachu.netlify.app
+  Snake setup: add snake.yml to .github/workflows/  (see chat notes)
+════════════════════════════════════════════════════════════════════════════
+-->
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-suhaib-0391b7307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/channel/UC-PU7x3nISeRq6ZSE9yu15g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://ahmedchachu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<div align="center">
+
+<h1>Ahmed Suhaib Siddiqui</h1>
+
+<a href="https://ahmedchachu.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F37021&center=true&vCenter=true&width=560&height=42&lines=Full-Stack+Developer+%26+Edge+AI+Engineer;IoT+%2B+NVIDIA+Accelerated+Computing;Front-End+%7C+Generative+AI+%7C+Systems" alt="roles" />
+</a>
+
+<p>
+  <a href="https://ahmedchachu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmed-suhaib-0391b7307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/@AhmedChachu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="https://github.com/AhmedSuhaibSiddiqui"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=AhmedSuhaibSiddiqui&label=Views&color=f37021&style=flat-square">
 </p>
 
----
+</div>
 
-### 👨‍💻 About Me
-I am a **Full-Stack Software Engineer** who thrives at the intersection of modern web development and high-performance systems. With a strong foundation in **React and JavaScript**, I build scalable web ecosystems, while my passion for **IoT and NVIDIA AI** allows me to push code into the physical world.
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23f37021&height=20" height="20"/> About
 
-When I'm not debugging C++ or architecting React components, I’m documenting my life and creative journey through **vlogging** on my YouTube channel.
+Karachi-based Full-Stack Engineer working at the intersection of modern web and high-performance edge systems. I ship scalable **React / Astro** front-ends, push code into hardware through **IoT + NVIDIA Edge AI**, and document the build-in-public journey on YouTube.
 
-* 🌐 **Frontend Expert:** Highly confident in **React**, Tailwind, and modern Web architecture.
-* 🤖 **AI & IoT:** Actively specializing in **NVIDIA Accelerated Computing** and Edge AI.
-* 🦀 **Systems Enthusiast:** Exploring memory safety and performance with **Rust and C++**.
-* 🎨 **Designer:** Prototyping high-fidelity experiences in **Figma**.
+- Front-End — React, Astro, Vite, Tailwind, with a focus on clean UI/UX
+- AI & IoT — Generative AI, MediaPipe/OpenCV vision, NVIDIA Accelerated Computing
+- Systems — exploring memory safety and performance with C++17 and Rust
 
----
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%23f37021&height=20" height="20"/> Tech Stack
 
-### 🛠️ Tech Stack
+<div align="center">
 
-#### 🌐 Web & Application Development
-[![Web Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,firebase,nextjs,astro)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=react,ts,js,astro,vite,tailwind,nodejs,firebase&theme=dark)](https://skillicons.dev)<br/>
+[![AI & Systems](https://skillicons.dev/icons?i=python,fastapi,cpp,rust,flutter,dart,postgres,arduino&theme=dark)](https://skillicons.dev)<br/>
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,postman,docker&theme=dark)](https://skillicons.dev)
 
-#### ⚙️ Systems, AI & Mobile
-[![Systems Skills](https://skillicons.dev/icons?i=python,rust,cpp,java,dart,flutter,arduino)](https://skillicons.dev)
+</div>
 
-#### 🎨 Design & Workflow
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,postman,docker)](https://skillicons.dev)
+## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23f37021&height=20" height="20"/> GitHub Analytics
 
----
+<div align="center">
 
-### 🏆 Professional Certifications
-I am committed to technical excellence and professional growth through industry-leading certifications:
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhmedSuhaibSiddiqui&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=f37021&icon_color=2dd4a7" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSuhaibSiddiqui&theme=github-dark-blue&hide_border=true&stroke=f37021&ring=f37021&fire=2dd4a7&currStreakLabel=f37021" />
 
-* 🟢 **NVIDIA:** Accelerated Computing & Deep Learning Specializations.
-* 🟢 **NVIDIA:** AI with Jetson Nano.
-* 📊 **DataCamp:** [Professional Python Data Associate](https://www.datacamp.com/certificate/PDA0018652638422).
-* 📡 **IoT Specialist:** Real-time system design and hardware-software integration.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedSuhaibSiddiqui&theme=github-compact&hide_border=true&color=f37021&line=2dd4a7&point=ffffff&area=true&height=280" width="98%" />
 
----
+<!-- Snake animation — generated by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/AhmedSuhaibSiddiqui/AhmedSuhaibSiddiqui/output/github-snake-dark.svg" width="98%" />
 
-### 📂 Featured Work
-I believe in showing, not just telling. You can find my full range of software, IoT, and AI projects on my official portfolio website.
+</div>
 
-👉 **[EXPLORE ALL PROJECTS AT AHMEDCHACHU.NETLIFY.APP](https://ahmedchachu.netlify.app/)**
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23f37021&height=20" height="20"/> Featured Projects
 
-#### 📱 Highlighted Repository: Nexovate
-* **Description:** A cross-platform mobile innovation designed in Figma and implemented via Flutter.
-* **Tech:** Flutter, Dart, Figma.
-* **Link:** [View on GitHub](https://github.com/trustnexus/nexovate-mustaf)
+<sub>Some repositories are private — <a href="https://ahmedchachu.netlify.app/contact">reach out</a> for access.</sub>
 
----
+<details>
+<summary><b>AI &amp; Machine Learning</b></summary>
 
-### 🎥 Beyond the Code
-Check out my **YouTube channel** where I share my life, experiences, and journey as a developer through vlogs. It’s where my creativity meets my daily life.
+| Project | Description | Stack |
+|---|---|---|
+| **[CheckMate AI Grader](https://ahmedchachu.netlify.app/projects/ai-grader)** | Grades handwritten answers and generates assessments. | `Flutter` `FastAPI` `Gemini 1.5` `SBERT` `spaCy` |
+| **[Job Applier AI](https://ahmedchachu.netlify.app/projects/job-applier-ai)** | Agent that tailors resumes and auto-submits applications. | `Python` `Gemini 2.5` `Playwright` `React` |
+| **[AURA-MD](https://ahmedchachu.netlify.app/projects/aura-md)** | Bio-adaptive gaming monitor and lighting engine via CV. | `FastAPI` `MediaPipe` `OpenCV` `WebSockets` |
+| **[MindGrid](https://ahmedchachu.netlify.app/projects/mindgrid)** | Unbeatable Tic-Tac-Toe engine, no STL containers. | `C++17` `CMake` `Minimax` |
 
-👉 **[Watch my Vlogs on YouTube](https://www.youtube.com/channel/UC-PU7x3nISeRq6ZSE9yu15g)**
+</details>
 
----
+<details>
+<summary><b>Bots &amp; Discord</b></summary>
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSuhaibSiddiqui&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSuhaibSiddiqui&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| **[GFL Music Bot](https://ahmedchachu.netlify.app/projects/gfl-music-bot)** | Playback bot with queue, filters and effects. | `Python` `discord.py` `FFmpeg` |
+| **[GFL AI Bot](https://ahmedchachu.netlify.app/projects/gfl-ai-bot)** | Daily hadiths, duaas and reminders. | `Discord.js` `OpenAI API` `Node.js` |
+| **[GFL Moderation Bot](https://ahmedchachu.netlify.app/projects/gfl-moderation-bot)** | Ban / kick / timeout / logging suite. | `Discord.js` `Node.js` |
+| **[Karma Court](https://ahmedchachu.netlify.app/projects/karma-court)** | Interactive Discord Activity — a virtual court. | `React` `FastAPI` `Discord SDK` |
 
----
+</details>
 
-### 📫 Let's Connect
-> *"Building the future of the web and the intelligence of the edge."*
+<details>
+<summary><b>Web &amp; Mobile Apps</b></summary>
 
-* **LinkedIn:** [Ahmed Suhaib](https://www.linkedin.com/in/ahmed-suhaib-0391b7307/)
-* **Portfolio:** [ahmedchachu.netlify.app](https://ahmedchachu.netlify.app/)
+| Project | Description | Stack |
+|---|---|---|
+| **[Kaywee E-commerce](https://ahmedchachu.netlify.app/projects/kaywee-ecommerce)** | Jewelry storefront with Shopify Storefront API. | `Astro` `React` `Shopify` `TypeScript` |
+| **[Chachu AI](https://ahmedchachu.netlify.app/projects/chachu-ai)** | Rule-based assistant with domain skills and SFX. | `React` `FastAPI` `PostgreSQL` |
+| **[Nexovate](https://ahmedchachu.netlify.app/projects/nexovate)** | Animated app for project scoping and UI generation. | `Flutter` `Dart` `Firebase` |
+| **[ADHD Coach App](https://ahmedchachu.netlify.app/projects/adhd-coach)** | Gamified focus and routine coaching for kids. | `React Native` `Firebase` `TypeScript` |
+
+</details>
+
+<details>
+<summary><b>Hardware &amp; IoT</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Vector Mini Desk Robot](https://ahmedchachu.netlify.app/projects/vector-mini-robot)** | Vision brain, obstacle avoidance, OLED face, voice. | `ESP32-CAM` `TB6612FNG` `INMP441` `C++` |
+| **[Biometric Door Lock](https://ahmedchachu.netlify.app/projects/fingerprint-door-lock)** | Fingerprint-authenticated servo lock. | `Arduino` `MG90S` `C++` |
+| **[ESP32 BT &amp; FM Radio Amp](https://ahmedchachu.netlify.app/projects/bt-radio-amp-module)** | Dual-mode Bluetooth / FM audio module. | `ESP32` `PAM8403` `Bluetooth A2DP` |
+| **[Mood-O-Meter](https://ahmedchachu.netlify.app/projects/mood-o-meter)** | Proximity-driven mood faces on an OLED. | `Arduino` `HC-SR04` `OLED` `C++` |
+
+</details>
+
+<div align="center"><br/>
+<a href="https://ahmedchachu.netlify.app/projects"><img src="https://img.shields.io/badge/View_all_16+_projects-F37021?style=for-the-badge&logoColor=white"></a>
+</div>
+
+## <img src="https://api.iconify.design/lucide/award.svg?color=%23f37021&height=20" height="20"/> Certifications
+
+| Issuer | Certification | |
+|---|---|---|
+| **NVIDIA DLI** | [Fundamentals of Accelerated Computing with OpenACC](https://learn.nvidia.com/certificates?id=kQoOsLx0Tqq6l7gkEss2yg) | <sub>Feb 2025</sub> |
+| **NVIDIA DLI** | [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/certificates?id=tme2-s6BThe5IJ8VG9VxxQ) | <sub>Mar 2025</sub> |
+| **NVIDIA DLI** | [Building LLM Applications With Prompt Engineering](https://learn.nvidia.com/certificates?id=d7ePV5A8QAeKW7VPwTL5uA) | <sub>May 2025</sub> |
+| **NVIDIA DLI** | [Learn OpenUSD: Prims and Default Schemas](https://learn.nvidia.com/certificates?id=asFXnV7gT2SxGhyL6_rjog) | <sub>Jun 2025</sub> |
+| **DataCamp** | [Python Data Associate](https://www.datacamp.com/certificate/PDA0018652638422) | <sub>Jun 2025</sub> |
+| **HP LIFE** | [Data Science and Analytics](https://www.life-global.org/certificate/e988fd99-7918-4c78-90f4-187764f1c8df) | <sub>Jun 2025</sub> |
+
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%23f37021&height=20" height="20"/> Connect
+
+<div align="center">
+
+**[Portfolio](https://ahmedchachu.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/ahmed-suhaib-0391b7307/)** · **[YouTube](https://www.youtube.com/@AhmedChachu)** · **[GitHub](https://github.com/AhmedSuhaibSiddiqui)**
+
+<sub>Software Engineer · Karachi, Pakistan</sub>
+
+</div>
