@@ -3,7 +3,7 @@
 <h1>Ahmed Suhaib Siddiqui</h1>
 
 <a href="https://ahmedchachu.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F37021&center=true&vCenter=true&width=560&height=42&lines=Full-Stack+Developer+%26+Edge+AI+Engineer;IoT+%2B+NVIDIA+Accelerated+Computing;Front-End+%7C+Generative+AI+%7C+Systems" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F37021&center=true&vCenter=true&width=560&height=42&lines=Full-Stack+Developer;IoT+%2B+NVIDIA+Accelerated+Computing;Front-End+%7C+Generative+AI" alt="roles" />
 </a>
 
 <p>
@@ -15,10 +15,10 @@
 </p>
 
 </div>
-
+            
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23f37021&height=20" height="20"/> About
 
-Karachi-based Full-Stack Engineer working at the intersection of modern web and high-performance edge systems. I ship scalable **React / Astro** front-ends, push code into hardware through **IoT + NVIDIA Edge AI**, and document the build-in-public journey on YouTube.
+Karachi-based Full-Stack Engineer working at the intersection of modern web and high-performance edge systems. I ship scalable **React / Astro** front-ends, push code into hardware through **IoT**, and document the build-in-public journey on YouTube.
 
 - Front-End — React, Astro, Vite, Tailwind, with a focus on clean UI/UX
 - AI & IoT — Generative AI, MediaPipe/OpenCV vision, NVIDIA Accelerated Computing
